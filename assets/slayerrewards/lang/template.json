@@ -1,0 +1,21 @@
+{
+  "mcclauneck.slayerrewards.command.only_players": "",
+  "mcclauneck.slayerrewards.command.permission_denied": "",
+  "mcclauneck.slayerrewards.command.usage": "",
+  "mcclauneck.slayerrewards.editor.title": "",
+  "mcclauneck.slayerrewards.editor.lore.chance": "",
+  "mcclauneck.slayerrewards.editor.lore.edit_hint": "",
+  "mcclauneck.slayerrewards.editor.btn.previous": "",
+  "mcclauneck.slayerrewards.editor.btn.next": "",
+  "mcclauneck.slayerrewards.editor.btn.currency": "",
+  "mcclauneck.slayerrewards.editor.btn.reward": "",
+  "mcclauneck.slayerrewards.editor.btn.defaults.off": "",
+  "mcclauneck.slayerrewards.editor.btn.defaults.on": "",
+  "mcclauneck.slayerrewards.editor.btn.save": "",
+  "mcclauneck.slayerrewards.editor.chat.enter_chance": "",
+  "mcclauneck.slayerrewards.editor.chat.enter_reward": "",
+  "mcclauneck.slayerrewards.editor.chat.saved": "",
+  "mcclauneck.slayerrewards.editor.chat.updated_chance": "",
+  "mcclauneck.slayerrewards.editor.chat.invalid_number": "",
+  "mcclauneck.slayerrewards.editor.chat.updated_reward": ""
+}
