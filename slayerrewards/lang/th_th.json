@@ -1,0 +1,21 @@
+{
+  "mcclauneck.slayerrewards.command.only_players": "เฉพาะผู้เล่นเท่านั้นที่สามารถใช้คำสั่งนี้ได้",
+  "mcclauneck.slayerrewards.command.permission_denied": "คุณไม่มีสิทธิ์ใช้คำสั่งนี้",
+  "mcclauneck.slayerrewards.command.usage": "การใช้งาน: /slayerrewards edit <mob> [page]",
+  "mcclauneck.slayerrewards.editor.title": "แก้ไขดรอป: %s | หน้า %s",
+  "mcclauneck.slayerrewards.editor.lore.chance": "โอกาส: %s",
+  "mcclauneck.slayerrewards.editor.lore.edit_hint": "Shift+คลิกขวา เพื่อแก้ไขโอกาส",
+  "mcclauneck.slayerrewards.editor.btn.previous": "หน้าก่อนหน้า",
+  "mcclauneck.slayerrewards.editor.btn.next": "หน้าถัดไป",
+  "mcclauneck.slayerrewards.editor.btn.currency": "สกุลเงิน: %s",
+  "mcclauneck.slayerrewards.editor.btn.reward": "รางวัล: %s",
+  "mcclauneck.slayerrewards.editor.btn.defaults.off": "ดรอปปกติ: ปิด",
+  "mcclauneck.slayerrewards.editor.btn.defaults.on": "ดรอปปกติ: เปิด",
+  "mcclauneck.slayerrewards.editor.btn.save": "บันทึกและรีโหลด",
+  "mcclauneck.slayerrewards.editor.chat.enter_chance": "พิมพ์โอกาสดรอป (0-100) ในแชทสำหรับ %s:",
+  "mcclauneck.slayerrewards.editor.chat.enter_reward": "พิมพ์จำนวนรางวัล (เช่น 10 หรือ 10-20) ในแชท:",
+  "mcclauneck.slayerrewards.editor.chat.saved": "บันทึกข้อมูลดรอปแล้ว!",
+  "mcclauneck.slayerrewards.editor.chat.updated_chance": "อัปเดตโอกาสเป็น: %s",
+  "mcclauneck.slayerrewards.editor.chat.invalid_number": "ตัวเลขไม่ถูกต้อง ยกเลิกการอัปเดต",
+  "mcclauneck.slayerrewards.editor.chat.updated_reward": "อัปเดตจำนวนรางวัลแล้ว!"
+}
